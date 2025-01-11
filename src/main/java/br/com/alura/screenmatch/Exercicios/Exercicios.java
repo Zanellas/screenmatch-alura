@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch;
+package br.com.alura.screenmatch.Exercicios;
 
 import static java.lang.Math.*;
 
